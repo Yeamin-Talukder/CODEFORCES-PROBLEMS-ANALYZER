@@ -37,6 +37,17 @@
 
 <details>
   <summary> <h1> <bold> INSTALLATION  </h1>  </summary>
+    
+- First open this [Sheet]() and then go to " File->Make a Copy " . It will create a copy of this sheet in your drive.
+- Then scroll right in the sheet you will see a segment called control panel.This is the main part that control the sheet data
+> - The Fill the control Panel data like this
+>  -  ![CONTROL](https://github.com/user-attachments/assets/ab8852c7-6ef2-40dc-9631-c5f85edd462e)
+
+> - It will ask you premission for modify the data in the sheet.Press ok
+> - ![PERMISSION - 1](https://github.com/user-attachments/assets/92e068ed-f407-4409-9bfa-e2b99cd50a00)
+
+> - This sheet use a unauthorized script that's why this shows warning but this is safe. click " show advance " option in the below
+> - ![P-2] (https://github.com/user-attachments/assets/af9fc67a-cf56-4524-8570-f841c62db1a6)
 
 
 
@@ -45,7 +56,7 @@
 
 
 
-
+![P-3](https://github.com/user-attachments/assets/bed0771d-1fa4-492e-b16c-0c7074acea9e)
 
 
 
