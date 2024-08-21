@@ -16,6 +16,8 @@
 
 </details>
 
+
+
 <details>
   <summary> <h1><strong>FEATURES</strong></h1>  </summary>
 
@@ -47,3 +49,11 @@
 - Now you're ready to search for anything using the control panel.
 
 </details>
+
+> [!CAUTION]
+> ## DON'T CHANGE ANYTHING IF YOU DON'T KNOW WHAT'S GOING ON JUST USE THE CONTROL PANEL
+
+> [!NOTE]  
+> ## IT WILL TAKE SOME TIME TO LOAD THE DATA DEPENDING ON THE DATA SIZE
+
+
