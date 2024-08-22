@@ -33,7 +33,8 @@
 <details>
   <summary> <h1><strong>INSTALLATION</strong></h1>  </summary>
     
-- First, open this [Sheet](https://docs.google.com/spreadsheets/d/1o12iyqbBP_a7j9gnzz_yDR8nf5B7gGAV4JTJ0Ij68lU/edit?gid=0#gid=0) and go to "File -> Make a Copy." This will create a copy of the sheet in your Google Drive.
+- First, open this <a href="https://docs.google.com/spreadsheets/d/1o12iyqbBP_a7j9gnzz_yDR8nf5B7gGAV4JTJ0Ij68lU/edit?gid=0#gid=0" target="_blank">Sheet</a>
+ and go to "File -> Make a Copy." This will create a copy of the sheet in your Google Drive.
 - Scroll right in the sheet to find a segment called "Control Panel." This is the main part that controls the sheet data.
   
   - Fill in the Control Panel data as shown:
@@ -50,10 +51,14 @@
 
 </details>
 
-> [!CAUTION]
-> ## DON'T CHANGE ANYTHING IF YOU DON'T KNOW WHAT'S GOING ON JUST USE THE CONTROL PANEL
+> [!WARNING]  
+> ## If you change the Handle name Make sure to delete all the data of Problemcache sheet else it will show previous handle fetch data.
 
 > [!NOTE]  
 > ## IT WILL TAKE SOME TIME TO LOAD THE DATA DEPENDING ON THE DATA SIZE
+
+
+> [!CAUTION]
+> ## DON'T CHANGE ANYTHING IF YOU DON'T KNOW WHAT'S GOING ON JUST USE THE CONTROL PANEL
 
 
