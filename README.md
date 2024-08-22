@@ -54,6 +54,11 @@
 > [!WARNING]  
 > ## If you change the Handle name Make sure to delete all the data of Problemcache sheet else it will show previous handle fetch data.
 
+
+> [!IMPORTANT]  
+> ## You need to click in the submit button to get the update data .This is the only way to update sheet data
+
+
 > [!NOTE]  
 > ## IT WILL TAKE SOME TIME TO LOAD THE DATA DEPENDING ON THE DATA SIZE
 
