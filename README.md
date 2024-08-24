@@ -9,7 +9,7 @@
   ![Problem Details](https://github.com/user-attachments/assets/3a0a8bb0-9f2a-4fe9-b56a-994c3d437d5f)
 
   ###### Control Panel and Analysis Segment
-  ![Analysis Page](https://github.com/user-attachments/assets/55031de8-eb27-46d8-975c-812bd2393fe1)
+  ![control part](https://github.com/user-attachments/assets/860f6c4d-524f-4530-9f7a-3004554bf8bb)
 
   ###### This is the page where we store the loaded data to reduce the time spent searching for the same data repeatedly.
   ![Problem Cache](https://github.com/user-attachments/assets/8f9ad4bf-7da6-49d2-a551-ae2bb9c8c396)
