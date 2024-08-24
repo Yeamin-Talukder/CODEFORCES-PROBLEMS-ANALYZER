@@ -37,8 +37,8 @@
  and go to "File -> Make a Copy." This will create a copy of the sheet in your Google Drive.
 - Scroll right in the sheet to find a segment called "Control Panel." This is the main part that controls the sheet data.
   
-  - Fill in the Control Panel data as shown:
-    ![CONTROL](https://github.com/user-attachments/assets/ab8852c7-6ef2-40dc-9631-c5f85edd462e)
+  - Fill your data in the Control Panel as shown and submit :
+  ![control](https://github.com/user-attachments/assets/a72dc1af-6e89-4c15-b0c5-9a45b9a57646)
 
   - It will ask for permission to modify the data in the sheet. Click "OK."
     ![PERMISSION - 1](https://github.com/user-attachments/assets/92e068ed-f407-4409-9bfa-e2b99cd50a00)
