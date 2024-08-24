@@ -9,7 +9,7 @@
   ![Problem Details](https://github.com/user-attachments/assets/3a0a8bb0-9f2a-4fe9-b56a-994c3d437d5f)
 
   ###### Control Panel and Analysis Segment
-  ![control part](https://github.com/user-attachments/assets/860f6c4d-524f-4530-9f7a-3004554bf8bb)
+ ![control part](https://github.com/user-attachments/assets/e4f02960-215e-453b-a510-32947de0c99c)
 
   ###### This is the page where we store the loaded data to reduce the time spent searching for the same data repeatedly.
   ![Problem Cache](https://github.com/user-attachments/assets/8f9ad4bf-7da6-49d2-a551-ae2bb9c8c396)
@@ -52,7 +52,7 @@
 </details>
 
 > [!WARNING]  
-> ## If you change the Handle name Make sure to delete all the data of Problemcache sheet else it will show previous handle fetch data.
+> ## If you change the Handle name Make sure to click on the " Reset Cache " it will delete all the previous handle cache or you will get previous handle cache data in your search. 
 
 
 > [!IMPORTANT]  
